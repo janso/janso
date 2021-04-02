@@ -1,0 +1,3 @@
+- 👋 I’m @janso
+- 👀 I’m interested in progamming. Currently go.
+- 🌱 I’m currently learning AWS
